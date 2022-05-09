@@ -1,4 +1,4 @@
-image: node:lts
+image: node:erbium
 
 variables:
   APNSCP_THEME_PATH: "dist/"
